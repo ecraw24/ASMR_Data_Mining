@@ -27,7 +27,7 @@ Firstly, what factors have the most significant impact on the monetization poten
 For a YouTube content creator in the niche of ASMR without personal identifying information and in the category of relaxation (not food, animals, or role-play), this knowledge will assist with monetization and channel growth.
 
 ## Links
-* Link to the video demonstration: 
+* Link to the video demonstration: https://youtu.be/MDMfA5ftdVY
 * Link to final project paper: https://github.com/ecraw24/ASMR_Data_Mining/blob/main/emcr8954_YouTubeASMRDataMining_Part4.pdf
 
 ***Note: Github did not allow me to upload the large csv data file. Instead, I have uploaded a smaller sample csv with the same data formatting.***
